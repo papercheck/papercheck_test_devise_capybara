@@ -1,3 +1,5 @@
+In this Git repository, please find my second test of this four part test. This test has been successful on many levels where Webrat fails.
+------------------------------------------------------------
 1) Log-in to Devise using Cucumber + Webrat
     a) There is no documentation for this method
 2) Log-in to Devise using Cucumber + Capybara
