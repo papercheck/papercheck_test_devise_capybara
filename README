@@ -1,0 +1,9 @@
+1) Log-in to Devise using Cucumber + Webrat
+    a) There is no documentation for this method
+2) Log-in to Devise using Cucumber + Capybara
+    a) Suggested by Devise (http://wiki.github.com/plataformatec/devise/cucumber-tests)
+3) Log-in to Devise using Steak
+    a) This is a ruby written framework, as apposed to Celerity (written in JRuby).
+    b) http://rywalker.com/steak-capybara-envjs-refreshing-take-on-rails-integration-testing
+4) Log-in to Devise using Cucumber + Capybara + Selenium
+    a) Set Capybara default_driver to :selenium
